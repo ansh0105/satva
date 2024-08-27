@@ -1,0 +1,13 @@
+[server]
+headless = true
+
+[theme]
+base = "dark"
+primaryColor="#01e47f"
+# backgroundColor = 
+# secondaryBackgroundColor =
+textColor="#ffffff"
+
+# "sans serif" or "serif", or "monospace".
+font = "sans serif"
+
