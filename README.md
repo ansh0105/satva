@@ -81,7 +81,7 @@ SATVA is an advanced spam detection and analysis tool that integrates multiple l
     cd telegram
     python create_telegram_sessionfile.py
     ```
-    - Follow the prompts to create a session file using your Telegram credentials.
+    - Follow the steps to create a session file using your Telegram credentials.
 
 2. **Start the Telegram Session:**
     ```bash
@@ -93,6 +93,16 @@ SATVA is an advanced spam detection and analysis tool that integrates multiple l
     ```
     SATVA: <your_message_content>
     ```
+ **Here is few screenshots of SATVA Telegram Bot in action:**
+
+<img src="https://github.com/user-attachments/assets/c6af23cd-dd06-4752-9253-6f502d5aae4d" alt="Image 1" width="1000" height="150"/>
+<p align="justify">
+  <img src="https://github.com/user-attachments/assets/927e1550-1be6-44c6-9a36-ef7ff4cff590" alt="Image 2" width="500" height="340" />
+  <img src="https://github.com/user-attachments/assets/35462cb1-21e2-451f-9880-0f5e7da7f099" alt="Image 3" width="500" height="340"/>
+</p>
+
+
+
 
 ### Running the Streamlit Web Application
 
@@ -114,12 +124,13 @@ SATVA is an advanced spam detection and analysis tool that integrates multiple l
 
     After logging in, you can update your username and password using the "Update User Details" feature.
 
+ **Here is a demonstration video of SATVA Web Application in action:**
+ 
+[SATVA Web Application](https://github.com/user-attachments/assets/5a9f7791-9358-4e86-bcb6-82541308fac4)
+
 
 ## Notes
 
 - **Security:** Ensure that your API credentials are kept secure and not exposed in public repositories.
 - **Scalability:** The architecture can be expanded with additional layers or integrated with other messaging platforms.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
